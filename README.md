@@ -44,7 +44,7 @@ main();
 
 ## Getting your api key
 
-1. Visit https://hackcheck.io/profile
+1. Visit https://app.hackcheck.io/profile
 2. Add your IP address in the "Authorized IP Addresses" text area and click Update
 3. Copy your API key
 
